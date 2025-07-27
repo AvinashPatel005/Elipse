@@ -124,6 +124,8 @@ class MainActivity : ComponentActivity() {
                               Text(text = "Hello")
                               Text(text = "Hello")
                               Text(text = "Hello")
+
+                              Text(text = "Hello")
                           }
 
 
